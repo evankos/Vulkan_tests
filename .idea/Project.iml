@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial06/Tutorial06.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial06/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial06/Tutorial06.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial05/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial05/Tutorial05.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial05/Tutorial05.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial04/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial04/Tutorial04.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial04/Tutorial04.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial03/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial03/Tutorial03.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial03/Tutorial03.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/Tools.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/OperatingSystem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/VulkanCommon.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/ListOfFunctions.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/VulkanFunctions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/OperatingSystem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/VulkanCommon.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/VulkanFunctions.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common/Tools.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial01/Tutorial01.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial01/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial01/Tutorial01.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Include/vulkan.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Include/vk_platform.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Include/stb_image.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial02/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial02/Tutorial02.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial02/Tutorial02.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial07/Tutorial07.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial07/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutorial07/Tutorial07.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include" />
+          <root url="file://C:/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed" />
+          <root url="file://C:/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/x86_64-w64-mingw32/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include" />
+          <root url="file://C:/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed" />
+          <root url="file://C:/mingw-w64/x86_64-6.2.0-posix-seh-rt_v5-rev1/mingw64/x86_64-w64-mingw32/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
